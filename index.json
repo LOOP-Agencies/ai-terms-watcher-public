@@ -9,16 +9,16 @@
       "url": "https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/canva.md"
     },
     {
+      "tool_slug": "google",
+      "url": "https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/google.md"
+    },
+    {
       "tool_slug": "midjourney",
       "url": "https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/midjourney.md"
     },
     {
       "tool_slug": "openai",
       "url": "https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/openai.md"
-    },
-    {
-      "tool_slug": "stability-ai",
-      "url": "https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/stability-ai.md"
     }
   ]
 }
