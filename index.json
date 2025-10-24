@@ -9,12 +9,32 @@
       "url": "https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/canva.md"
     },
     {
+      "tool_slug": "freepik-terms-of-use",
+      "url": "https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/freepik-terms-of-use.md"
+    },
+    {
+      "tool_slug": "google-ai-principles",
+      "url": "https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/google-ai-principles.md"
+    },
+    {
       "tool_slug": "google",
       "url": "https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/google.md"
     },
     {
+      "tool_slug": "kling-paid-services",
+      "url": "https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/kling-paid-services.md"
+    },
+    {
+      "tool_slug": "kling-terms-of-service",
+      "url": "https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/kling-terms-of-service.md"
+    },
+    {
       "tool_slug": "midjourney",
       "url": "https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/midjourney.md"
+    },
+    {
+      "tool_slug": "openai-creating-images-and-videos-in-line-with-our-policies",
+      "url": "https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/openai-creating-images-and-videos-in-line-with-our-policies.md"
     },
     {
       "tool_slug": "openai",

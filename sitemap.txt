@@ -1,5 +1,10 @@
 https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/adobe-firefly.md
 https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/canva.md
+https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/freepik-terms-of-use.md
+https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/google-ai-principles.md
 https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/google.md
+https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/kling-paid-services.md
+https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/kling-terms-of-service.md
 https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/midjourney.md
+https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/openai-creating-images-and-videos-in-line-with-our-policies.md
 https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/openai.md
