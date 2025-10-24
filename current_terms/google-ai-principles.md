@@ -1,7 +1,7 @@
 ---
 tool_name: Google AI Principles
 url: https://ai.google/responsibility/principles/
-fetched_at: '2025-10-24T19:07:44.144271+00:00'
+fetched_at: '2025-10-24T19:08:08.740252+00:00'
 content_hash: e072ba65209ea0930df49d705bfeff8ba321ce7b2d7ed1bdbcbe392cc3f6121d
 risk_flags:
 - intellectual property
