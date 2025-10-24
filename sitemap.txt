@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/adobe-firefly.md
+https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/canva.md
+https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/midjourney.md
+https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/openai.md
+https://raw.githubusercontent.com/LOOP-Agencies/AI-terms-watcher-public/main/current_terms/stability-ai.md
