@@ -1,0 +1,10 @@
+{
+  "tool_name": "Google AI Principles",
+  "url": "https://ai.google/responsibility/principles/",
+  "fetched_at": "2025-11-04T08:56:04.760057+00:00",
+  "content_hash": "31d867e413ff7e70b9437747354a2dca8a7ae33a8a7c86b2ed9fec00fe369a26",
+  "etag": null,
+  "last_modified": null,
+  "risk_flags": [],
+  "diff_text": "--- \n+++ \n@@ -0,0 +1,95 @@\n+Our\n+AI\n+Principles\n+in\n+action\n+Our\n+AI\n+Principles\n+guide\n+the\n+development\n+and\n+deployment\n+of\n+our\n+AI\n+systems.\n+These\n+Principles\n+inform\n+our\n+frameworks\n+and\n+policies,\n+such\n+as\n+the\n+Secure\n+AI\n+Framework\n+for\n+security\n+and\n+privacy,\n+and\n+the\n+Frontier\n+Safety\n+Framework\n+for\n+evolving\n+model\n+capabilities.\n+Our\n+governance\n+process\n+covers\n+model\n+development,\n+application\n+deployment,\n+and\n+post-launch\n+monitoring.\n+We\n+identify\n+and\n+assess\n+AI\n+risks\n+through\n+research,\n+external\n+expert\n+input,\n+and\n+red\n+teaming.\n+We\n+then\n+evaluate\n+our\n+systems\n+against\n+safety,\n+privacy,\n+and\n+security\n+benchmarks.\n+Finally,\n+we\n+build\n+mitigations\n+with\n+techniques\n+such\n+as\n+safety\n+tuning,\n+security\n+controls,\n+and\n+robust\n+provenance\n+solutions."
+}
