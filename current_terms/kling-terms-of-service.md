@@ -1,7 +1,7 @@
 ---
 tool_name: Kling Terms of Service
 url: https://app.klingai.com/global/docs/user-policy
-fetched_at: '2025-11-10T06:56:37.848363+00:00'
+fetched_at: '2025-11-11T06:56:09.412605+00:00'
 content_hash: 76671a30d3e90530c28e25c19c6cc71df924d276950944badeb7173a1dff9c14
 risk_flags: []
 ---
