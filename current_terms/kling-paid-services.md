@@ -1,7 +1,7 @@
 ---
 tool_name: Kling Paid Services
 url: https://app.klingai.com/global/docs/payment-policy
-fetched_at: '2025-11-11T06:56:09.412605+00:00'
+fetched_at: '2025-11-12T06:56:04.047393+00:00'
 content_hash: 76671a30d3e90530c28e25c19c6cc71df924d276950944badeb7173a1dff9c14
 risk_flags: []
 ---

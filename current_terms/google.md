@@ -1,7 +1,7 @@
 ---
 tool_name: Google
 url: https://policies.google.com/terms
-fetched_at: '2025-11-11T06:56:09.412605+00:00'
+fetched_at: '2025-11-12T06:56:04.047393+00:00'
 content_hash: 7bc070a0326f16dffb5db50ec85e0bb920ba154a8f061b21037573fe58751222
 risk_flags:
 - ownership
