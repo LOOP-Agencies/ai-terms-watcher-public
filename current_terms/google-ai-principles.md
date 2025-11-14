@@ -1,7 +1,7 @@
 ---
 tool_name: Google AI Principles
 url: https://ai.google/responsibility/principles/
-fetched_at: '2025-11-13T06:55:54.079651+00:00'
+fetched_at: '2025-11-14T06:55:52.251433+00:00'
 content_hash: 31d867e413ff7e70b9437747354a2dca8a7ae33a8a7c86b2ed9fec00fe369a26
 risk_flags: []
 ---
