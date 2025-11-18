@@ -1,7 +1,7 @@
 ---
 tool_name: Adobe Firefly
 url: https://www.adobe.com/legal/terms.html
-fetched_at: '2025-11-17T06:56:42.072382+00:00'
+fetched_at: '2025-11-18T06:54:56.158324+00:00'
 content_hash: 48fac108f5d3b34431e00a23abe5bacf3b383474ae8b3d79fa35d8170477c058
 risk_flags:
 - intellectual property
