@@ -1,10 +1,10 @@
 {
   "tool_name": "Adobe Firefly",
   "url": "https://www.adobe.com/legal/terms.html",
-  "fetched_at": "2025-11-19T06:54:57.722238+00:00",
+  "fetched_at": "2025-11-20T06:54:44.011416+00:00",
   "content_hash": "48fac108f5d3b34431e00a23abe5bacf3b383474ae8b3d79fa35d8170477c058",
   "etag": null,
-  "last_modified": "Tue, 18 Nov 2025 17:50:48 GMT",
+  "last_modified": "Wed, 19 Nov 2025 16:13:45 GMT",
   "risk_flags": [
     "intellectual property",
     "sublicense",
